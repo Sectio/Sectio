@@ -40,11 +40,11 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 
 | MEDIA  | YANG DIPROMOSIIN |
 | ----- | --- |
-| My Github | [**Sectio**](https://github.com/Sectio) |
-| Githube batirku | [@setyonugrohongr](https://github.com/setyonugrohobtr) |
-| MY INSTAGRAM | [**@skautsar.ra**](https://www.instagram.com/skautsar.ra/?hl=id) |
-| IG ne BATIRKU | [@setyonugrohongr](https://www.instagram.com/setyonugrohongr/?hl=id) |
-| YOUTUBE Ku | [**Wagelaseh RA**](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
-| Discord Ku | [**BigPapa**](https://discord.gg/rH6GD5) |
+| Github | [**Sectio**](https://github.com/Sectio) |
+| Twiter| [@WagelasehRA](https://twitter.com/WagelasehR) |
+| Instagram | [**@skautsar.ra**](https://www.instagram.com/skautsar.ra/?hl=id) |
+| Facebook | [WagelasehRA](https://www.facebook.com/wagelaseh.ra.94) |
+| YOUTUBE | [**Wagelaseh RA**](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
+| Discord | [**BigPapa**](https://discord.gg/rH6GD5) |
 
    **ENJOYED**
