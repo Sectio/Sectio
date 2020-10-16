@@ -41,7 +41,7 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 | MEDIA  | YANG DIPROMOSIIN |
 | ----- | --- |
 | Github | [**Sectio**](https://github.com/Sectio) |
-| Twiter| [@WagelasehRA](https://twitter.com/WagelasehR) |
+| Twiter| [WagelasehRA](https://twitter.com/WagelasehR) |
 | Instagram | [**@skautsar.ra**](https://www.instagram.com/skautsar.ra/?hl=id) |
 | Facebook | [WagelasehRA](https://www.facebook.com/wagelaseh.ra.94) |
 | YOUTUBE | [**Wagelaseh RA**](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
