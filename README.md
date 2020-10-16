@@ -34,17 +34,17 @@ Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/sh
 
 When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile  with the new state of the board.
 
-                        **WELCOME TO MY GITHUB**
+   **WELCOME TO MY GITHUB**
 
-                              **PROMOSI**
+   **PROMOSI**
 
 | MEDIA  | YANG DIPROMOSIIN |
 | ----- | --- |
-| My Github | [@skautsar.ra](https://github.com/Sectio) |
+| My Github | [**Sectio**](https://github.com/Sectio) |
 | Githube batirku | [@setyonugrohongr](https://github.com/setyonugrohobtr) |
-| MY INSTAGRAM | [@skautsar.ra](https://www.instagram.com/skautsar.ra/?hl=id) |
+| MY INSTAGRAM | [**@skautsar.ra**](https://www.instagram.com/skautsar.ra/?hl=id) |
 | IG ne BATIRKU | [@setyonugrohongr](https://www.instagram.com/setyonugrohongr/?hl=id) |
-| YOUTUBE KU | [Wagelaseh RA](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
-| GO FOLLOW | GO SUBSCRIBE |
+| YOUTUBE Ku | [**Wagelaseh RA**](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
+| Discord Ku | [**BigPapa**](https://discord.gg/rH6GD5) |
 
-                              **ENJOYED**
+   **ENJOYED**
