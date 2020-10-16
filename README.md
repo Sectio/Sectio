@@ -64,4 +64,10 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 | YOUTUBE | [**Wagelaseh RA**](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
 | Discord | [**BigPapa**](https://discord.gg/rH6GD5) |
 
-   **ENJOYED**
+### klik aja udah...
+<p>
+    <a href="https://www.facebook.com/wagelaseh.ra.94" target="blank"><img src="https://img.shields.io/badge/Facebook-blue?" /></a>
+    <a href="https://www.instagram.com/skautsar.ra/?hl=id" target="blank"><img src="https://img.shields.io/badge/Instagram-red?" /></a>
+    <a href="https://twitter.com/WagelasehR" target="blank"><img src="https://img.shields.io/badge/Twiter-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q" target="blank"><img src="https://img.shields.io/badge/Youtube-red?" /></a>
+</p>
