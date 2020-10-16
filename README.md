@@ -37,12 +37,12 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 ### Stats:
 <details>
  <summary><strong>About me!</strong></summary>
-    - 🔭 I’m currently working on GoodLife SAMP Server </br>
+    - 🔭 I’m currently working on Home </br>
     - 🌱 I’m currently learning Pawn </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:Setyonugrohongr@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:ramadhani2910712@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
