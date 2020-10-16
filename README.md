@@ -47,8 +47,8 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Setyonugrohobtr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setyonugrohobtr&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sectio&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sectio&layout=compact" height=180 />
 </p>
 
    **PROMOSI**
