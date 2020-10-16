@@ -34,9 +34,9 @@ Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/sh
 
 When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile  with the new state of the board.
 
-**WELCOME TO MY GITHUB**
+                        **WELCOME TO MY GITHUB**
 
-**PROMOSI**
+                              **PROMOSI**
 
 | MEDIA  | YANG DIPROMOSIIN |
 | ----- | --- |
@@ -47,4 +47,4 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 | YOUTUBE KU | [Wagelaseh RA](https://www.youtube.com/channel/UChGb-rpIxdrDJltCqJecH0Q) |
 | GO FOLLOW | GO SUBSCRIBE |
 
-**ENJOYED**
+                              **ENJOYED**
