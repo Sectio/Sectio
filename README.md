@@ -1,6 +1,6 @@
 
-## Tim's Community Chess Tournament
-
+## Games For Chill
+## Kalo Ngga tau artinya TRANSLATE, jangan males hehe:)
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black piece.
 
 |   | A | B | C | D | E | F | G | H |
